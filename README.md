@@ -2,8 +2,8 @@
 ![](https://github.com/EZ-Robotics/EZ-Template/workflows/Build/badge.svg)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
 
-# EZ-Template 
-EZ-Template is a simple plug-and-play PROS template that handles drive base functions, autonomous selector, input curves, and active brake with PTO support.
+# Robotics >:)
+Robot go vrrroom, I'll add important things here when the time comes maybe.
 
 ## Features
 - Simple to setup 
