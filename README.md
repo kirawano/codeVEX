@@ -1,7 +1,3 @@
-![](https://img.shields.io/github/downloads/EZ-Robotics/EZ-Template/total.svg)
-![](https://github.com/EZ-Robotics/EZ-Template/workflows/Build/badge.svg)
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
-
 # Robotics >:)
 Robot go vrrroom, I'll add important things here when the time comes maybe.
 
